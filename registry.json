@@ -1581,5 +1581,14 @@
     "github_repo": "Yeetasoreus99/Mike-The-Accountant",
     "repo_url": "https://Yeetasoreus99.github.io/Mike-The-Accountant/",
     "has_system": false
+  },
+  {
+    "name": "test-repo",
+    "description": "some test repo please disregard",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "blastervla/test-repo",
+    "repo_url": "https://blastervla.github.io/test-repo/",
+    "has_system": false
   }
 ]
