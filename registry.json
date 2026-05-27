@@ -1623,5 +1623,17 @@
     "github_repo": "JayBinx/Arificer-5.5",
     "repo_url": "https://JayBinx.github.io/Arificer-5.5/",
     "has_system": false
+  },
+  {
+    "name": "Solum-Paladin-Oath",
+    "description": "An oath for the most devoted Daydarian Paladins",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "zaezaegoincraycray/Solum-Paladin-Oath",
+    "repo_url": "https://zaezaegoincraycray.github.io/Solum-Paladin-Oath/",
+    "has_system": false
   }
 ]
