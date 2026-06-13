@@ -1739,5 +1739,17 @@
     "github_repo": "MalletGreatshield/Fangbreaker",
     "repo_url": "https://MalletGreatshield.github.io/Fangbreaker/",
     "has_system": false
+  },
+  {
+    "name": "Deltarune-Armors",
+    "description": "Consists of a variety of homebrew items heavily inspired by Deltarune.",
+    "tags": [
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "ThatOneWeirdo92/Deltarune-Armors",
+    "repo_url": "https://ThatOneWeirdo92.github.io/Deltarune-Armors/",
+    "has_system": false
   }
 ]
